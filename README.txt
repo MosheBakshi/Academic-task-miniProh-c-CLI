@@ -1,7 +1,7 @@
 Academic task written with C language on VS19 as CLI
 
 Ex1:
-	returning pointer to n sized unsigned int array dinamiclly allocated in the function.
+	returning pointer to n sized unsigned int array dynamiclly allocated in the function.
 	each cell contains '2' powered by index module 32.
 Ex2:
 	multipling two static matrix into new one dynamic matrix and returning its address.
