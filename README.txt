@@ -1,6 +1,6 @@
-## Matrix & Linked list
+##Matrix & Linked list
 
-**Academic task written with C language on VS19 as CLI
+**Academic task written with C language on VS19 as CLI**
 
 Ex1:
 	returning pointer to n sized unsigned int array dynamiclly allocated in the function.
@@ -18,4 +18,4 @@ Ex4:
 	the pointer of the original list can be changed if the pointer has removed and the origin also can be empty or just odd/even.
 Ex5:	
 	like Ex4, but without creating new list.
-	the function will relink the items on the original list and spliit the original into two different lists of odd/even.**
+	the function will relink the items on the original list and spliit the original into two different lists of odd/even.
