@@ -1,7 +1,7 @@
 # Academic-task-miniProj-c-CLI
 ## Matrix & Linked list
 
-###**Academic task written with C language on VS19 as CLI**
+###### **Academic task written with C language on VS19 as CLI**
 
 __Ex1:__
 	> returning pointer to n sized unsigned int array dynamiclly allocated in the function. 
