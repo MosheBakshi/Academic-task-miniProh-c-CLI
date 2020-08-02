@@ -1,4 +1,4 @@
-# Academic-task-miniProj-c-CLI
+# Academic mini-project using C in format of CLI
 ## Matrix & Linked list
 
 ###### **Academic task written with C language on VS19 as CLI**
