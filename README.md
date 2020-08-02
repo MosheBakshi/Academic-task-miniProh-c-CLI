@@ -24,4 +24,4 @@ __Ex4:__
 __Ex5:__
 
 	like Ex4, but without creating new list.
-	> the function will relink the items on the original list and spliit the original into two different lists of odd/even.
+	the function will relink the items on the original list and spliit the original into two different lists of odd/even.
